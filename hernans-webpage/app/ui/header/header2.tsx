@@ -33,7 +33,7 @@ export default function Header2() {
                             <Link className="hover:text-gray-300" href="#quienes-somos">¿QUIENES SOMOS?</Link>
                             <Link className="hover:text-gray-300" href="/">¿QUÉ HACEMOS?</Link>
                             <Link className="hover:text-gray-300" href="/">STAFF</Link>
-                            <Link className="hover:text-gray-300" href="/">CONTACTO</Link>                        
+                            <Link className="hover:text-gray-300" href="#contacto">CONTACTO</Link>                        
                         </div>
 
 
